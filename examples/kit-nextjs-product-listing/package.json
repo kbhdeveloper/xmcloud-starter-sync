@@ -1,10 +1,10 @@
 {
-  "name": "kit-nextjs-product-starter",
+  "name": "kit-nextjs-product-listing",
   "description": "Application utilizing Sitecore JavaScript Services and Next.js",
   "version": "1.0.0",
   "private": true,
   "config": {
-    "appName": "kit-nextjs-product-starter",
+    "appName": "kit-nextjs-product-listing",
     "graphQLEndpointPath": "/sitecore/api/graph/edge",
     "language": "en",
     "template": "nextjs"

@@ -1,4 +1,4 @@
-# SYNC - Demo Site (NextJS) - kit-nextjs-product-starter
+# SYNC - Demo Site (NextJS) - kit-nextjs-product-listing
 
 ## Table of Contents
 
@@ -50,7 +50,7 @@ If you have not enabled the split deployment feature your editing hosts are auto
 3. Select Project that has been deployed
 4. Switch to tab "Editing Hosts"
 5. Click "Add editing host"
-6. Provide Editing host name  ```kit-nextjs-product-starter``` as per xmcloud.build.json
+6. Provide Editing host name  ```kit-nextjs-product-listing``` as per xmcloud.build.json
 7. Check if the link to authoring environment is set correctly (should be by default)
 8.  Check if the source code provider is set correctly (should be by default)
 9. Check if the GitHub Account is set correctly (should be by default)
